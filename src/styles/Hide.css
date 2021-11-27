@@ -1,0 +1,14 @@
+.hide__container {
+  display: flex;
+  justify-content: left;
+  margin: 20px;
+}
+
+.hide__button {
+  height: 30px;
+  border-style: none;
+  border-radius: 5px;
+  width: 200px;
+  background-color: #303f5e;
+  color: whitesmoke;
+}
